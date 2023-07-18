@@ -1,31 +1,15 @@
-## v3.0.0
-
-###### Feb 24, 2023
 
 - Update dependencies
 - Update design system
 - Refactor components
 - Replace authentication
 
-## v2.1.0
-
-###### Sep 15, 2022
-
 - Integrate Zalter Authentication
 - Update dependencies
-
-## v2.0.0
-
-###### Nov 8, 2021
 
 - Migrate to Next.js
 - Update design system
 
-# Change Log
-
-## v1.0.0
-
-###### Aug 7, 2020
 
 - Add `eslint`
 - Add `Feather Icons`
@@ -37,10 +21,6 @@
 - Update dependencies
 - Update folder structure to remove folder depth
 - Update theme configuration
-
-## v0.4.0
-
-###### Jul 24, 2019
 
 - Adjust theme colors
 - Implement `useStyle` hook instead of `withStyles` HOC
@@ -54,20 +34,12 @@
 - Update dependencies
 - Update the layout to match the PRO version
 
-## v0.3.0
-
-###### May 13, 2019
-
 - Implement `jsconfig.json` file and removed `.env` to match React v16.8.6 absolute paths
 - Update chart styles and options
 - Update Dashboard view top widgets styles and structure
 - Update few icons to match @material-ui v4 updates
 - Update React version to 16.8.6 to support React Hooks
 - Update to @material-ui to 4.0.0-beta
-
-## v0.2.0
-
-###### May 11, 2019
 
 - Add docs for IE11 polyfill
 - Fix `DisplayMode` component size, when used as a flex child it could grow/shrink
@@ -81,8 +53,3 @@
 - Remove unused scss from assets
 - Update README.md
 
-## v0.1.0
-
-###### May 2, 2019
-
-### Initial commit
